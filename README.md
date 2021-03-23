@@ -11,3 +11,13 @@
 		resultado = [1, 2, 3, 4, 5, 6, 7, 8]
 * Escribir una función que cuente la cantidad de veces que se repite una palabra.
 * Verificar si es que un string es un palíndromo. Ej: ana == ana
+
+## Ejercicio de django
+
+* Realizar un sistema de adopcion de mascotas
+	* Modelos principales. Ej Mascota, Adoptante
+	* Registrar los datos de las mascotas Ej. Nombre, Edad, Raza, etc.
+	* Registrar los datos del adoptante Ej. Nombre, CI, edad, etc.
+	* Debe registrar la adopcion que tiene relacion entre la mascota y el adoptante
+
+Se valora creatividad y conocimientos en css y javascript.
